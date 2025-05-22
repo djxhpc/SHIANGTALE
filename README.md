@@ -3,10 +3,10 @@
 
 - 於Code::Blocks平台撰寫的C語言程式
 - 利用Allegro遊戲開發框架
- -含影像載入與顯示(al_init_image_addon）
- -鍵盤與滑鼠輸入控制(al_install_keyboard, al_install_mouse）
- -音效播放系統(al_install_audio, al_reserve_samples）
- -字型與TTF字體支援(al_init_font_addon, al_init_ttf_addon）
+ - 含影像載入與顯示(al_init_image_addon）
+ - 鍵盤與滑鼠輸入控制(al_install_keyboard, al_install_mouse）
+ - 音效播放系統(al_install_audio, al_reserve_samples）
+ - 字型與TTF字體支援(al_init_font_addon, al_init_ttf_addon）
 - 僅支援電腦(Windows7/10/11) 
 
 ![Image](https://github.com/user-attachments/assets/df04659c-c95b-4501-8b8e-b79b734e1d7d)
