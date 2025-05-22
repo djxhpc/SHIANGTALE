@@ -2,7 +2,11 @@
 嘗試用C語言的彈幕遊戲，設計理念來自於知名遊戲《Undertale》，又譯《傳說之下》，遊戲目錄及怪物攻擊概念皆參考此遊戲，並在遊戲的難度控制上使用《東方Project》彈幕射擊遊戲的概念，去增怪物數量及攻擊來增加難易度。
 
 - 於Code::Blocks平台撰寫的C語言程式
-- 利用Allegro遊戲開發框架撰寫
+- 利用Allegro遊戲開發框架
+ (含影像像載入與顯示al_init_image_addon）
+ (鍵盤與滑鼠輸入控制al_install_keyboard, al_install_mouse）
+ (音效播放系統al_install_audio, al_reserve_samples）
+ (字型與TTF字體支援al_init_font_addon, al_init_ttf_addon）
 - 僅支援電腦(Windows7/10/11) 
 
 ![Image](https://github.com/user-attachments/assets/df04659c-c95b-4501-8b8e-b79b734e1d7d)
