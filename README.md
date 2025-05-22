@@ -3,7 +3,7 @@
 
 - 於Code::Blocks平台撰寫的C語言程式
 - 利用Allegro遊戲開發框架撰寫
-- 僅支援電腦（Windows7/10/11） 
+- 僅支援電腦(Windows7/10/11) 
 
 ![Image](https://github.com/user-attachments/assets/df04659c-c95b-4501-8b8e-b79b734e1d7d)
 ![Image](https://github.com/user-attachments/assets/d9c84fdf-e288-41cb-83c0-2e9cc0c29733)
